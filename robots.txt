@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berita-cepat.github.io/topsite/sitemap.xml
